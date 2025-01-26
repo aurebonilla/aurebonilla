@@ -7,13 +7,11 @@ I am a computer engineer specialized in software engineering. I am currently foc
 Languages:
 
 ▴ English.
-
 ▴ Spanish.
-
 ▴ Català.
 
 
-- 📫 How to reach me: <a href="https://bonil.la" target="_blank">Bonil.la</a>
+## 📫 How to reach me: <a href="https://bonil.la" target="_blank">Bonil.la</a>
 <a href="mailto:aurelio@bonil.la" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/clean-and-simple/153/Mail-512.png" height="40" />
 </a>
@@ -59,9 +57,6 @@ Languages:
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
@@ -83,9 +78,7 @@ Languages:
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/laravel-icon-995x1024-dk77ahh4.png" alt="laravel" width="40" height="40"/>
   </a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/998f1aa7-a9ca-4fa9-879f-1ed56fea4ff3.png" alt="maven" width="40" height="40"/>
-  </a>
+
   
 </p>
 
