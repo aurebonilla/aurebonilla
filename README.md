@@ -10,8 +10,8 @@ Languages:
 
 ▴ Spanish.
 
-Development Workflow:
-I primarily utilize GitFlow
+▴ Català.
+
 
 - 📫 How to reach me: <a href="https://bonil.la" target="_blank">Bonil.la</a>
 <a href="mailto:aurelio@bonil.la" target="_blank">
